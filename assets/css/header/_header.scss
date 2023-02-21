@@ -97,12 +97,12 @@
 
     @include lg {
       background-size: cover;
-      background: url(/assets/img/bg-header-servise-item.png) no-repeat;
+      background: url(../../img/bg-header-servise-item.png) no-repeat;
     }
 
     @include md {
       background-size: cover;
-      background: url(/assets/img/bg-header-servise-item.png) no-repeat;
+      background: url(../../img/bg-header-servise-item.png) no-repeat;
     }
   }
 
@@ -196,7 +196,7 @@
 
       content: "";
 
-      background-image: url(/assets/img/logo-hillel-slash.svg);
+      background-image: url(../../img/logo-hillel-slash.svg);
       background-repeat: no-repeat;
 
       @include sm {
@@ -213,7 +213,7 @@
 
       content: "";
 
-      background-image: url(/assets/img/logo-hillel-mini.svg);
+      background-image: url(../../img/logo-hillel-mini.svg);
       background-repeat: no-repeat;
 
       @include sm {
