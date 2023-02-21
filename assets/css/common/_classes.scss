@@ -77,7 +77,7 @@ margin-inline: auto;
 
     content: "";
 
-    background-image: url(/assets/img/arrow-right.svg);
+    background-image: url(../../img/arrow-right.svg);
     background-repeat: no-repeat;
   }
 
@@ -88,7 +88,7 @@ margin-inline: auto;
     font-weight: $font-weight-700;
 
     &::after {
-      background-image: url(/assets/img/arrow-right-blue.svg);
+      background-image: url(../../img/arrow-right-blue.svg);
     }
   }
 }
